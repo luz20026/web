@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lilita+One&family=Lobster&display=swap');
+
+body {
+    background-color: #A6A611;
+}
+
+nav{
+     max-width: 100%;
+     margin: auto;
+     background-color:#F2F218;
+     font-size: 20px;
+     margin-top: 0px;
+     
+ }
+ .menu-horizontal{
+     list-style: none;
+     display: flex;
+     justify-content: space-around;
+ }
+
+
+ .menu-horizontal > li > a{
+     display: block;
+     padding: 10px 10px;
+     color: rgba(0, 7, 0, 0.795);
+     text-decoration: none;
+    
+ }
+
+ .menu-horizontal > li:hover{
+     background-color: white;
+ }
+
+
+ h1{
+
+  color: black;
+  text-align: center;
+  font-size: 10ex;
+margin-top: 0%;
+margin-bottom: 0%;
+
+text-shadow: 5px 5px 5px white;
+}
+
+
+#parrafo {
+
+  font-size: 110%;
+ 
+
+}
+
+h2{
+    text-align: center;
+    font-size: 150%;
+    margin-top: 3%;
+}
+p{
+margin-top: 1%;
+}
+img{
+    width:300px;
+    height:160px;
+    margin-right:15px;
+     float: left;
+}
